@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kamakiri39/kamakiri315-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kamakiri39/kamakiri315-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>カマキリ教会のホームページ</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  </head>
+  <body>
+    <section class="hero is-info is-fullheight">
+  <div class="hero-body">
+  <div id="app" class="container">
+    <h1 class="title">
+      カマキリ教会のホームページ＆私のプロフィール
+    </h1>
+    <img src="http://2.bp.blogspot.com/-IShSHXRBCOg/UnXnA7n5vLI/AAAAAAAAaFg/9zAqSOrtWQ0/s180-c/mushi_kamakiri.png" alt="">
+<p class="title is-size-4">カマキリ教会は素晴らしい宗教です。</p>
+<p class="title is-size-4">カマキリ教会に入ると何もせずに月３００万円稼げます。</p>
+<p class="title is-size-4">宗教法人法第二条によると宗教団体ではないみたいです。</p>
+<p class="title is-size-4">カマキリ教会の目的などは<a href="https://forms.gle/5HQvqsXdvq8Uf8mq5">前ホームページ</a>をご覧ください。</p>
+<a href="file:///C:/Users/%E6%89%8B%E9%95%B7%E7%8C%BF/Desktop/%E3%82%AB%E3%83%9E%E3%82%AD%E3%83%AA.html" class="button is-primary">Home</a>
+<a href="file:///C:/Users/%E6%89%8B%E9%95%B7%E7%8C%BF/Desktop/%E3%82%AB%E3%83%9E%E3%82%AD%E3%83%AAabout.html" class="button is-primary">about</a>
+<a href="file:///C:/Users/%E6%89%8B%E9%95%B7%E7%8C%BF/Desktop/%E3%82%AB%E3%83%9E%E3%82%AD%E3%83%AAFace.html" class="button is-primary">face</a>
+<a href="file:///C:/Users/%E6%89%8B%E9%95%B7%E7%8C%BF/Desktop/%E3%82%AB%E3%83%9E%E3%82%AD%E3%83%AAIncoming.html" class="button is-primary">Incoming</a>
+<a href="file:///C:/Users/%E6%89%8B%E9%95%B7%E7%8C%BF/Desktop/%E3%82%AB%E3%83%9E%E3%82%AD%E3%83%AAmember.html" class="button is-primary">member</a>
+<a href="file:///C:/Users/%E6%89%8B%E9%95%B7%E7%8C%BF/Desktop/%E3%82%AB%E3%83%9E%E3%82%AD%E3%83%AArequest.html" class="button is-primary">request</a>
+  </body>
+</html>
+  </div>
+</section>
